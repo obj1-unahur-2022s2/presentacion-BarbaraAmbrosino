@@ -14,4 +14,6 @@ Hasta el momento,  lo que más me interesa de esta carrera es el desarrollo fron
 
 Soy entrenadora de gimnasia artística. Creo planificaciónes anuales para escuelas de proyección hacia los niveles elite y también para niveles rtecreativos. Me encantan los desafíos, y que mis alumnas/os tengan sus propios deseos dentro del deporte. Aseguro desde mi experiencia, que el deporte es una herramienta indispensable para lograr un amplio desarrollo psicomotor y crear una personalidad basada en el compañerismo, la organización de tareas y la disciplina.
 
+##Muchas gracias!
+
 

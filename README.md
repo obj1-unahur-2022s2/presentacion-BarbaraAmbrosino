@@ -2,7 +2,7 @@
 
 # Presentación personal 
 
-##Buenas
+## Buenas
 
 Mi nombre es Sofia Ambrosino.  Tengo  27 años, soy estudiante en la tecnicatura en programación, y me recibí de profesora nacional de educaxión física el año pasado.
 Comencé a interesarme por la informática en pandemia, mi proyecto a futuro es poder relacionar estas dos hermosas carreras para que el deporte no sea soamente una actividad tradicional y pueda evolucionar e invovarse constantemente. con herramientas informáticas.
@@ -16,3 +16,4 @@ object programacionConObjetos {
         return  "Gracias!" 
     }
 }
+```

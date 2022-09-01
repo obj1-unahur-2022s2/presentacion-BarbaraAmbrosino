@@ -10,10 +10,3 @@ Hasta el momento,  lo que más me interesa de esta carrera es el desarrollo fron
 Estoy entusiasmada por aprender mucho más sobre etás herramientas.
 
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Gracias!" 
-    }
-}
-```
